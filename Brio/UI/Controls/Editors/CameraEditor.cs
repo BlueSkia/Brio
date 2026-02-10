@@ -1,5 +1,6 @@
 ﻿using Brio.Capabilities.Camera;
 using Brio.Config;
+using Brio.Entities.Actor;
 using Brio.Entities.Camera;
 using Brio.Files;
 using Brio.Game.Actor.Extensions;
